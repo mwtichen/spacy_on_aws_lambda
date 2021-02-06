@@ -16,7 +16,7 @@ First, I made a flask app, app.py, drawing inspiration from [this](https://act-l
 
 Next, I tested the app in the flask_app_test.ipynb notebook.
 
-After that, I followed the instructions from[this](https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html) webpage, using my app rather than their's.
+After that, I followed the instructions from [this](https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html) webpage, using my app rather than their's.
 
 Lastly, I tested the lambda function in the zappa_app_test.ipynb notebook.
 
