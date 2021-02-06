@@ -1,5 +1,4 @@
-# spacy_on_aws_lambda
-Training and Deploying a custom NER model using Zappa
+# Training and Deploying a custom NER model using Zappa
 
 I trained a custom named entity recognition (NER) model using the MIT movie datasets, available [here](https://groups.csail.mit.edu/sls/downloads/movie/).
 
@@ -20,3 +19,5 @@ Next, I tested the app in the flask_app_test.ipynb notebook.
 After that, I followed the instructions from[this](https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html) webpage, using my app rather than their's.
 
 Lastly, I tested the lambda function in the zappa_app_test.ipynb notebook.
+
+All tests were successful. :)
